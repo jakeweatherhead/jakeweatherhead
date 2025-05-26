@@ -1,1 +1,1 @@
-Ruby on Rails developer at EPI-USE Labs.
+Ruby on Rails and JS developer at EPI-USE Labs.
