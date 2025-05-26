@@ -1,1 +1,1 @@
-Ruby on Rails and JS developer at EPI-USE Labs.
+Ruby on Rails and JS developer at EPI-USE Labs and studying at the University of Pretoria. Currently investigating whether computer vision models (CNNs and/or ViTs) can be used to distinguish between unknots and non-trivial knots in images.
