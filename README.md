@@ -10,6 +10,6 @@ Typically, I write software with the following languages:
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,ocaml,ruby" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,ocaml" />
   </a>
 </p>
