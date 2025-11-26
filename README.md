@@ -6,6 +6,7 @@ I'm a software engineer in Pretoria, South Africa researching the efficacy of co
 
 <br>
 Typically, I write software with the following languages:
+<br>
 
 <p align="left">
   <a href="https://skillicons.dev">
