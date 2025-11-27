@@ -6,6 +6,6 @@ I'm a software engineer in Pretoria, South Africa researching the efficacy of co
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,r" />
+    <img src="https://skillicons.dev/icons?i=cpp,python" />
   </a>
 </p>
