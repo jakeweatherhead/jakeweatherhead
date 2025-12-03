@@ -10,4 +10,4 @@ I'm a software engineer in Pretoria, South Africa researching the efficacy of co
     <img src="https://skillicons.dev/icons?i=cpp,python" />
   </a>
 </p>
-[![Hits](https://hits.sh/github.com/jakeweatherhead.svg?style=for-the-badge&label=Profile%20views)](https://hits.sh/github.com/jakeweatherhead/)
+<a href="https://hits.sh/github.com/jakeweatherhead/"><img alt="Hits" src="https://hits.sh/github.com/jakeweatherhead.svg?style=for-the-badge&label=Profile%20views"/></a>
