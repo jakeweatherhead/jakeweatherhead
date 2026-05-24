@@ -19,7 +19,7 @@ To gather results, I built: [seeing-the-unknot](https://github.com/jakeweatherhe
 <div align="center">
   <img width="1195" height="246" alt="image" src="https://github.com/user-attachments/assets/88f593e4-3402-460d-82be-f3434852b640" />
   <br />
-  <sup>Saliency maps generated with [GradCAM](https://github.com/jacobgil/pytorch-grad-cam).</sup>
+  <sup>Saliency maps generated with GradCAM (https://github.com/jacobgil/pytorch-grad-cam).</sup>
 </div>
 
 <div style="height: 15px;"></div>
