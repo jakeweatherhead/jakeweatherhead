@@ -28,7 +28,7 @@ This led to my [thesis](https://github.com/jakeweatherhead/knot-theory-thesis), 
 
 <div style="height: 15px;"></div>
 
-As our investigations scaled to larger datasets of more complex knots (w.r.t. diagrammatic crossing count), it was clear that the performance of the [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot) fine-tuning pipeline was a bottleneck for our research-velocity going forward.
+As our investigations scaled to larger datasets of more complex knots, it was clear that the performance of the [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot) fine-tuning pipeline was a bottleneck for our research-velocity going forward.
 
 <div style="height: 15px;"></div>
 
