@@ -28,7 +28,7 @@ This led to my [thesis](https://github.com/jakeweatherhead/knot-theory-thesis), 
 
 <div style="height: 15px;"></div>
 
-As our investigations scaled to larger datasets of more complex knots, it was clear that the performance of [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot) was a bottleneck for our continued research-velocity.
+As we scaled to larger datasets of more complex knots, it was clear that the performance of [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot) was a major bottleneck for our continued research-velocity.
 
 <div style="height: 15px;"></div>
 
