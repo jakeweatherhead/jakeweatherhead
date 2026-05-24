@@ -32,8 +32,8 @@ As our investigations scaled to larger datasets of more complex knots, it was cl
 
 <div style="height: 15px;"></div>
 
-So, as fun exercise towards the end of my degree, I investigated potential remedies, learned about CUDA kernel fusion, and wrote a PyTorch C++ extension.
+So, as a fun exercise at the end of my degree, I investigated potential remedies, learned about CUDA kernel fusion, and wrote a PyTorch C++ extension.
 
 <div style="height: 15px;"></div>
 
-Performance did improve, but not for the reasons I expected. My kernel would never challenge Nvidia's CUTLASS, but determinstic dispatch via C++ did eliminate significant tail latencies in the convolutional weight gradient calculation. 
+Performance did improve, but not for the reasons I expected. My kernel would never challenge NVIDIA's CUTLASS, but determinstic dispatch via C++ did eliminate significant tail latencies in the convolutional weight gradient calculation. 
