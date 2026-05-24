@@ -6,16 +6,20 @@ I recently researched the efficacy of computer vision for the ___UNKNOT RECOGNIT
 
 <div align="center">
   <img width="1199" height="301" alt="image" src="https://github.com/user-attachments/assets/430da6fb-9054-4456-b5f9-5e924b3ed488" />
+  <br />
+  <sup>Example knots and unknot (left).</sup>
 </div>
 
 <div style="height: 15px;"></div>
 
-To gather results, I built: [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline built using PyTorch and GradCAM for explainability.
+To gather results, I built: [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline built using PyTorch and [GradCAM](https://github.com/jacobgil/pytorch-grad-cam) for explainability.
 
 <div style="height: 15px;"></div>
 
 <div align="center">
   <img width="1195" height="246" alt="image" src="https://github.com/user-attachments/assets/88f593e4-3402-460d-82be-f3434852b640" />
+  <br />
+  <sup>Saliency maps generated with [GradCAM](https://github.com/jacobgil/pytorch-grad-cam).</sup>
 </div>
 
 <div style="height: 15px;"></div>
