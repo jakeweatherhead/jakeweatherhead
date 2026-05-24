@@ -36,4 +36,4 @@ So, as a fun exercise at the end of my degree, I investigated machine learning p
 
 <div style="height: 15px;"></div>
 
-Performance did improve, but not for the reasons I expected. My kernel would never challenge NVIDIA's CUTLASS, but determinstic dispatch via C++ did eliminate significant tail latencies in the convolutional weight gradient calculation. 
+My kernel would never challenge NVIDIA's CUTLASS, but determinstic dispatch via C++ did eliminate significant tail latencies in the convolutional weight gradient calculation. 
