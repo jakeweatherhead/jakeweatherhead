@@ -32,7 +32,7 @@ As our investigations scaled to larger datasets of more complex knots, it was cl
 
 <div style="height: 15px;"></div>
 
-So, as a fun exercise at the end of my degree, I investigated potential remedies, learned about CUDA kernel fusion, and wrote a PyTorch C++ extension.
+So, as a fun exercise at the end of my degree, I investigated machine learning performance optimisation, learned about CUDA kernel fusion, and wrote a PyTorch C++ extension.
 
 <div style="height: 15px;"></div>
 
