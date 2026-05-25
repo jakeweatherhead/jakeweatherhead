@@ -38,5 +38,6 @@ So, as a fun exercise at the end of my degree, I investigated machine learning p
 
 My kernel would never challenge NVIDIA's CUTLASS, but determinstic dispatch via C++ did eliminate tail latencies in the convolutional weight gradient calculation. 
 
-<img width="4773" height="2968" alt="image" src="https://github.com/user-attachments/assets/0036a528-f5c6-479b-9d82-2f2fd44fbfed" />
-
+<div align="center">
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/0036a528-f5c6-479b-9d82-2f2fd44fbfed"/>
+</div>
