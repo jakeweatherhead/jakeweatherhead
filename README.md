@@ -1,4 +1,4 @@
-Hi, I'm Jake a full-stack software engineer in Pretoria, South Africa. 
+Hi, I'm Jake an ML performance engineer in Pretoria, South Africa. 
 
 <div style="height: 15px;"></div>
 
