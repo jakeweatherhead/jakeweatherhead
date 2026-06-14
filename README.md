@@ -1,4 +1,4 @@
-Hi, I'm Jake an ML performance engineer in Pretoria, South Africa. 
+Hi, I'm Jake a British quantitative developer. 
 
 <div style="height: 15px;"></div>
 
