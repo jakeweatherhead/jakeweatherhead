@@ -1,4 +1,4 @@
-Hi, I'm Jake a British quantitative developer. 
+Hi, I'm Jake a quantitative developer. 
 
 <div style="height: 15px;"></div>
 
