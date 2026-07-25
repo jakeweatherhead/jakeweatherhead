@@ -2,7 +2,15 @@ Hi, I'm Jake a software engineer and mathematician.
 
 <div style="height: 15px;"></div>
 
-I recently researched the efficacy of computer vision for the ___UNKNOT RECOGNITION___ and ___KNOTTEDNESS___ problems, i.e. deciding whether a given knot diagram represents the unknot or a non-trivial knot.
+I recently solved a 50-year Erd&#337;s conjecture with Opus 4.8 by first establishing a density one normal order for [Erd&#337;s problem #685](https://www.erdosproblems.com/forum/thread/685),
+
+<div align="center">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/797bad59-fbba-4840-850d-336a4b490f81" />
+</div>
+
+which enabled a three-argument [solution](https://www.researchgate.net/publication/409471385_Erdos_Problem_685_at_Density_One_An_Unconditional_Proof_of_the_Erdos-Gupta-Khare_Second-Moment_Conjecture) of the second moment.
+
+researched the efficacy of computer vision for the ___UNKNOT RECOGNITION___ and ___KNOTTEDNESS___ problems, i.e. deciding whether a given knot diagram represents the unknot or a non-trivial knot.
 
 To gather results, I built: [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline built using PyTorch and [GradCAM](https://github.com/jacobgil/pytorch-grad-cam) for explainability.
 
