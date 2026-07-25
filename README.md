@@ -18,7 +18,7 @@ Establishing a density one normal order for Erd&#337;s problem [#685](https://ww
 2. a reduction to smooth numbers in short intervals when $k$ exceeds the square root of $n$.
 3. a finite-histogram argument that reconstructs the additive function $\omega_{\gt k}$ from finitely many multiplicative functions by Vandermonde inversion when $k$ does not exceed the square root of $n$.
 
-Solving this problem taught me invaluable lessons about how to get the best out of AI to solve otherwise intractable problems.
+Proving this conjecture taught me invaluable lessons about how to get the best out of AI to solve otherwise intractable problems.
 
 ---
 
