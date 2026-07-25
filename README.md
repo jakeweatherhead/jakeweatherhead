@@ -1,4 +1,4 @@
-Hi, I'm Jake a quantitative developer. 
+Hi, I'm Jake a software engineer and mathematician. 
 
 <div style="height: 15px;"></div>
 
