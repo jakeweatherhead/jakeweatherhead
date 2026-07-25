@@ -24,7 +24,7 @@ Solving this problem taught me invaluable lessons about how to get the best out 
 
 For my undergraduate thesis, I researched the efficacy of computer vision for the ___UNKNOT RECOGNITION___ and ___KNOTTEDNESS___ problems, i.e. deciding whether a given knot diagram represents the unknot or a non-trivial knot.
 
-To train models, I built: [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline built using [PyTorch](https://github.com/pytorch/pytorch) and [GradCAM](https://github.com/jacobgil/pytorch-grad-cam).
+To train models, I built [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline built using [PyTorch](https://github.com/pytorch/pytorch) and [GradCAM](https://github.com/jacobgil/pytorch-grad-cam).
 
 <div style="height: 15px;"></div>
 
