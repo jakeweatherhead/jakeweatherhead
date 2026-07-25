@@ -6,6 +6,10 @@ I recently solved a 50-year Erd&#337;s conjecture with Opus 4.8 and GPT 5.6 Sol,
 
 <div align="center">
   <img width="1097" height="328" alt="image" src="https://github.com/user-attachments/assets/5657ece0-80b0-4f7b-81ee-0fa31f0d1ccf" />
+  <br />
+  <sup>P. Erd&#337;s, H. Gupta, S. P. Khare,
+  On the number of distinct prime divisors of binomial coefficients,
+  Utilitas Math. 10 (1976), See https://users.renyi.hu/~p_erdos/1976-29.pdf</sup>
 </div>
 
 Establishing a density one normal order for Erd&#337;s problem [#685](https://www.erdosproblems.com/forum/thread/685) enabled a three-argument, peer-reviewed [solution](https://www.researchgate.net/publication/409471385_Erdos_Problem_685_at_Density_One_An_Unconditional_Proof_of_the_Erdos-Gupta-Khare_Second-Moment_Conjecture) of the second moment:
@@ -14,13 +18,13 @@ Establishing a density one normal order for Erd&#337;s problem [#685](https://ww
 2. a reduction to smooth numbers in short intervals when $k$ exceeds the square root of $n$.
 3. a finite-histogram argument that reconstructs the additive function $\omega_{\gt k}$ from finitely many multiplicative functions by Vandermonde inversion when $k$ does not exceed the square root of $n$.
 
-Solving this problem with the help of frontier models taught me invaluable lessons about getting the best out of AI to solve otherwise intractable problems.
+Solving this problem taught me invaluable lessons about how to get the best out of AI to solve otherwise intractable problems.
 
 ---
 
 For my undergraduate thesis, I researched the efficacy of computer vision for the ___UNKNOT RECOGNITION___ and ___KNOTTEDNESS___ problems, i.e. deciding whether a given knot diagram represents the unknot or a non-trivial knot.
 
-To gather results, I built: [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline built using PyTorch and [GradCAM](https://github.com/jacobgil/pytorch-grad-cam) for explainability.
+To train models, I built: [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline built using [PyTorch](https://github.com/pytorch/pytorch) and [GradCAM](https://github.com/jacobgil/pytorch-grad-cam).
 
 <div style="height: 15px;"></div>
 
@@ -32,20 +36,6 @@ To gather results, I built: [seeing-the-unknot](https://github.com/jakeweatherhe
 
 <div style="height: 15px;"></div>
 
-This led to my [thesis](https://github.com/jakeweatherhead/knot-theory-thesis), which to my knowledge, is the first academic contribution providing evidence of computer vision's ability to determine knot-triviality in knot diagrams.
+This led to my [thesis](https://github.com/jakeweatherhead/knot-theory-thesis), which is the world's first evidence of computer vision's ability to determine knot-triviality in knot diagrams.
 
 <div style="height: 15px;"></div>
-
-As we scaled to larger datasets of more complex knots, it was clear that the performance of [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot) was a major bottleneck for our continued research-velocity.
-
-<div style="height: 15px;"></div>
-
-So, as a fun exercise at the end of my degree, I investigated machine learning performance optimisation, learned about CUDA kernel fusion, and wrote a PyTorch C++ extension.
-
-<div style="height: 15px;"></div>
-
-My CUDA kernel would never challenge NVIDIA's CUTLASS, but determinstic dispatch via C++ did eliminate tail latencies in the convolutional weight gradient calculation. 
-
-<div align="center">
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/0036a528-f5c6-479b-9d82-2f2fd44fbfed"/>
-</div>
