@@ -5,7 +5,7 @@ Hi, I'm Jake a software engineer and discrete mathematician living in Pretoria, 
 I recently solved a 50-year Erd&#337;s conjecture with Opus 4.8 and GPT 5.6 Sol,
 
 <div align="center">
-  <img width="1084" height="325" alt="image" src="https://github.com/user-attachments/assets/21977df5-4ad0-41db-9e4e-161faeaffe6a" />
+  <img width="1018" height="312" alt="image" src="https://github.com/user-attachments/assets/67c6d161-7ce4-46d3-905b-0424ea92c72a" />
   <br />
   <sup>P. Erd&#337;s, H. Gupta, S. P. Khare,
   On the number of distinct prime divisors of binomial coefficients,
