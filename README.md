@@ -1,16 +1,24 @@
-Hi, I'm Jake a software engineer and mathematician. 
+Hi, I'm Jake a software engineer and discrete mathematician living in Pretoria, South Africa. 
 
 <div style="height: 15px;"></div>
 
-I recently solved a 50-year Erd&#337;s conjecture with Opus 4.8 by first establishing a density one normal order for [Erd&#337;s problem #685](https://www.erdosproblems.com/forum/thread/685),
+I recently solved a 50-year Erd&#337;s conjecture with Opus 4.8 and GPT 5.6 Sol,
 
 <div align="center">
-  <img width="700" alt="image" src="https://github.com/user-attachments/assets/797bad59-fbba-4840-850d-336a4b490f81" />
+  <img width="1097" height="328" alt="image" src="https://github.com/user-attachments/assets/5657ece0-80b0-4f7b-81ee-0fa31f0d1ccf" />
 </div>
 
-which enabled a three-argument [solution](https://www.researchgate.net/publication/409471385_Erdos_Problem_685_at_Density_One_An_Unconditional_Proof_of_the_Erdos-Gupta-Khare_Second-Moment_Conjecture) of the second moment.
+Establishing a density one normal order for Erd&#337;s problem [#685](https://www.erdosproblems.com/forum/thread/685) enabled a three-argument, peer-reviewed [solution](https://www.researchgate.net/publication/409471385_Erdos_Problem_685_at_Density_One_An_Unconditional_Proof_of_the_Erdos-Gupta-Khare_Second-Moment_Conjecture) of the second moment:
 
-researched the efficacy of computer vision for the ___UNKNOT RECOGNITION___ and ___KNOTTEDNESS___ problems, i.e. deciding whether a given knot diagram represents the unknot or a non-trivial knot.
+1. a Turán-Kubilius mean-square method for slowly varying subpolynomial $k$.
+2. a reduction to smooth numbers in short intervals when $k$ exceeds the square root of $n$.
+3. a finite-histogram argument that reconstructs the additive function $\omega_{\gt k}$ from finitely many multiplicative functions by Vandermonde inversion when $k$ does not exceed the square root of $n$.
+
+Solving this problem with the help of frontier models taught me invaluable lessons about getting the best out of AI to solve otherwise intractable problems.
+
+---
+
+For my undergraduate thesis, I researched the efficacy of computer vision for the ___UNKNOT RECOGNITION___ and ___KNOTTEDNESS___ problems, i.e. deciding whether a given knot diagram represents the unknot or a non-trivial knot.
 
 To gather results, I built: [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline built using PyTorch and [GradCAM](https://github.com/jacobgil/pytorch-grad-cam) for explainability.
 
