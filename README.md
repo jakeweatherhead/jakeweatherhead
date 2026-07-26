@@ -22,7 +22,7 @@ Proving this conjecture taught me how to get the best out of AI to solve otherwi
 
 ---
 
-For my undergraduate thesis, I researched the efficacy of computer vision for the $\mathrm{Unknot\\,Recognition}$ and $\mathrm{Knottedness}$ problems, i.e. deciding whether a given knot diagram represents the unknot or a non-trivial knot.
+For my undergraduate thesis, I researched the efficacy of computer vision for the Unknot Recognition and Knottedness decision problems, i.e. deciding whether a given knot diagram represents the unknot or a non-trivial knot.
 
 To train models, I built [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline built using [PyTorch](https://github.com/pytorch/pytorch) and [GradCAM](https://github.com/jacobgil/pytorch-grad-cam).
 
