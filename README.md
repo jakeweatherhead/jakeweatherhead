@@ -12,7 +12,7 @@ I recently solved a 50-year Erd&#337;s conjecture with Opus 4.8 and GPT 5.6 Sol,
   Utilitas Math. 10 (1976), See https://users.renyi.hu/~p_erdos/1976-29.pdf</sup>
 </div>
 
-Establishing a density one normal order for Erd&#337;s problem [#685](https://www.erdosproblems.com/forum/thread/685) enabled a three-argument [solution](https://www.researchgate.net/publication/409471385_Erdos_Problem_685_at_Density_One_An_Unconditional_Proof_of_the_Erdos-Gupta-Khare_Second-Moment_Conjecture) of the second moment:
+Establishing a density one normal order for Erd&#337;s problem [#685](https://www.erdosproblems.com/forum/thread/685) enabled a three-argument [proof](https://www.researchgate.net/publication/409471385_Erdos_Problem_685_at_Density_One_An_Unconditional_Proof_of_the_Erdos-Gupta-Khare_Second-Moment_Conjecture) of the second moment:
 
 1. a Turán-Kubilius mean-square method for slowly varying subpolynomial $k$.
 2. a reduction to smooth numbers in short intervals when $k$ exceeds the square root of $n$.
