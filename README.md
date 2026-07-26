@@ -26,6 +26,8 @@ For my undergraduate thesis, I researched the efficacy of computer vision for th
 
 To train models, I built [seeing-the-unknot](https://github.com/jakeweatherhead/seeing-the-unknot), a computer vision fine-tuning pipeline which uses [PyTorch](https://github.com/pytorch/pytorch) and [GradCAM](https://github.com/jacobgil/pytorch-grad-cam).
 
+Perhaps the most impactful tool we used was [PyHopper](https://github.com/pyhopper/pyhopper) MCMC-optimisation as part of automated hyperparameter sweeps. 
+
 <div style="height: 15px;"></div>
 
 <div align="center">
