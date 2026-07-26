@@ -39,3 +39,9 @@ To train models, I built [seeing-the-unknot](https://github.com/jakeweatherhead/
 This led to my [thesis](https://github.com/jakeweatherhead/knot-theory-thesis), which shows how we achieved >98% accuracy on a dataset of over half a million knot diagrams for both the CNN and ViT which, to my knowledge, is the world's first academic contribution providing evidence of computer vision's ability to solve the _unknot recognition_ problem.
 
 <div style="height: 15px;"></div>
+
+---
+
+## Contact Details
+jakecraigweatherhead@gmail.com
+[linkedin/jakeweatherhead](https://www.linkedin.com/in/jakeweatherhead/)
