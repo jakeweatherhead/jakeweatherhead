@@ -44,4 +44,4 @@ This led to my [thesis](https://github.com/jakeweatherhead/knot-theory-thesis), 
 
 ## Contact Details
 Email: jakecraigweatherhead@gmail.com  
-LinkedIn: [jakeweatherhead](https://www.linkedin.com/in/jakeweatherhead/)
+LinkedIn: [@jakeweatherhead](https://www.linkedin.com/in/jakeweatherhead/)
